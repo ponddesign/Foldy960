@@ -2,7 +2,7 @@
   "name": "foldy960",
   "homepage": "https://github.com/davatron5000/Foldy960",
   "description": "A responsive 960 grid from Paravel",
-  "main": "style.css",
+  "main": "style.scss",
   "keywords": [
     "grid",
     "960",
